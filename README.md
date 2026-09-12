@@ -9,7 +9,7 @@ Master guitar scales with ease using Scales Trainer, the ultimate web app for vi
 > No downloads, no setup, just open and play.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dimethoxy/Scales/refs/heads/main/screenshots/mocha.jpg" alt="Image of the GUI" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/Dimethoxy/Scales/refs/heads/main/screenshots/mocha.png" alt="Image of the GUI" style="width: 100%;">
 </div>
 
 ## Features
