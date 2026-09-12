@@ -5,7 +5,7 @@
 Master guitar scales with ease using Scales Trainer, the ultimate web app for visualizing and practicing scales across any number of strings and up to 24 frets. Choose your tuning, pick from an endless selection of scales and modes, and explore colorful, intuitive fretboard patterns.
 
 > **🚀 TRY IT NOW:**  
-> Use the app instantly at **[scales.dimethoxy.com](https://scales.dimethoxy.com)**
+> Use the app instantly **[here](https://scales.dimethoxy.com)**
 > No downloads, no setup, just open and play.
 
 <div align="center">
@@ -23,10 +23,10 @@ Master guitar scales with ease using Scales Trainer, the ultimate web app for vi
 
 ## Why Use Scales Trainer?
 
-Whether you’re learning your first pentatonic box or exploring exotic modes, Scales Trainer helps you **see the fretboard**, **understand theory**, and **improve your solos** — all in one sleek, distraction-free interface.
+Whether you’re learning your first pentatonic box or exploring exotic modes, Scales Trainer helps you **see the fretboard**, **understand theory**, and **improve your solos**, all in one sleek, distraction-free interface.
 
 ## Getting Started
 
-1. **Click the link:** [scales.dimethoxy.com](https://scales.dimethoxy.com)
+1. **Click the link:** [here](https://scales.dimethoxy.com)
 2. Pick your tuning, scale, and theme
-3. Start practicing! 🎶
+3. Start practicing!
